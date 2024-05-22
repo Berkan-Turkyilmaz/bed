@@ -1,1 +1,1 @@
-# git-bedo
+# bed
