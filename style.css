@@ -1,0 +1,25 @@
+header {
+    text-decoration: underline;
+    background-color: rgb(233, 139, 147);
+}
+
+.text1 {
+    text-decoration: none !important;
+}
+
+
+section {
+    margin-bottom: 3rem;
+}
+
+body {
+    font-family: system-ui;
+    padding: 1rem .5rem;
+    font-size: 1rem;
+    letter-spacing: .5px;
+    background-color: rgba(219, 200, 207, 0.692);
+}
+
+ul li {
+    list-style: none;
+}
